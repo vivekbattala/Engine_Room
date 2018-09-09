@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<suite name="FirstXML">
+	<test name="Firsttest">
+	<parameter name="browser" value="chrome"/>
+		<classes>
+
+			<class name="dd_excel.PropertyFileIO">
+
+			</class>
+		</classes>
+
+	</test>
+</suite>
